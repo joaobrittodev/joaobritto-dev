@@ -810,6 +810,7 @@ main {
 
 .project-title,
 .project-category { margin-left: 10px; }
+.project-descr { margin-left: 10px; }
 
 .project-title {
   color: var(--white-2);
@@ -824,6 +825,12 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
+.project-descr {
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+}
+
 
 /*-----------------------------------*\
   #CONTACT
